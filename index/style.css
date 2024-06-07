@@ -1,0 +1,10 @@
+.ColorTitulo{
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.Subtitulo{
+    color: black;
+    padding: 2rem;
+}
