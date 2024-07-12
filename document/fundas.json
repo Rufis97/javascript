@@ -1,0 +1,80 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "silicone case",
+        "descripcion": "Funda de silicona del ip 7 al xr",
+        "precio": 7000,
+        "imagen": "https://images.app.goo.gl/DSBaiwyD8YBfQxXb9",
+        "stock": 80,
+        "categoria": {
+            "id_categoria": 1,
+            "nombre": "solicone case",
+            "descripcion": "Funda de silicona del ip 7 al xr"
+        }
+    },
+    {
+        "id_producto": 2,
+        "nombre": "silicone case",
+        "descripcion": "Funda de silicona del ip 11 al 13 pro max",
+        "precio": 8000,
+        "imagen": "https://images.app.goo.gl/DSBaiwyD8YBfQxXb9",
+        "stock": 100,
+        "categoria": {
+            "id_categoria": 2,
+            "nombre": "silicone case",
+            "descripcion": "Funda de silicona del ip 11 al 13 pro max"
+        }
+    },
+    {
+        "id_producto": 3,
+        "nombre": "silicone case",
+        "descripcion": "Funda de silicona del ip 14 al 14 pro max",
+        "precio": 9000,
+        "imagen": "https://images.app.goo.gl/DSBaiwyD8YBfQxXb9",
+        "stock": 70,
+        "categoria": {
+            "id_categoria": 3,
+            "nombre": "silicone case",
+            "descripcion": "Funda de silicona del ip 14 al 14 pro max"
+        }
+    },
+    {
+        "id_producto": 4,
+        "nombre": "silicone case",
+        "descripcion": "Funda de silicona del ip 15 al 15 pro max",
+        "precio": 10000,
+        "imagen": "https://images.app.goo.gl/DSBaiwyD8YBfQxXb9",
+        "stock": 50,
+        "categoria": {
+            "id_categoria": 4,
+            "nombre": "silicone case",
+            "descripcion": "Funda de silicona del ip 15 al 15 pro max"
+        }
+    },
+    {
+        "id_producto": 5,
+        "nombre": "Magsafe",
+        "descripcion": "Funda Magsafe",
+        "precio": 8000,
+        "imagen": "https://images.app.goo.gl/Nx3nAVKJMhkfs8s67",
+        "stock": 50,
+        "categoria": {
+            "id_categoria": 5,
+            "nombre": "Magsafe",
+            "descripcion": "Funda Magsafe"
+        }
+    },
+    {
+        "id_producto": 6,
+        "nombre": "Transparente Reforzada",
+        "descripcion": "Funda Transparente",
+        "precio": 5000,
+        "imagen": "https://images.app.goo.gl/JVUi9GWMdjW7riNo9",
+        "stock": 60,
+        "categoria": {
+            "id_categoria": 6,
+            "nombre": "Transparente Reforzada",
+            "descripcion": "Funda Transparente"
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "id_producto": 1,
+        "nombre": "Blindado 9D",
+        "descripcion": "Blindado rigido de plastico",
+        "precio": 6000,
+        "imagen": "https://images.app.goo.gl/atKcFqKiCqMJyyKg8",
+        "stock": 90,
+        "categoria": {
+            "id_categoria": 6,
+            "nombre": "Blindado 9D",
+            "descripcion": "Blindado rigido de plastico"
+        }
+    },
+
+    {
+        "id_producto": 2,
+        "nombre": "Hidrogel",
+        "descripcion": "Blindado de silicona",
+        "precio": 8000,
+        "imagen": "https://images.app.goo.gl/c99oA2sWY4i49s728",
+        "stock": 50,
+        "categoria": {
+            "id_categoria": 6,
+            "nombre": "Hidrogel",
+            "descripcion": "Blindado de silicona"
+        }
+    }
+]
